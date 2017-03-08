@@ -139,7 +139,7 @@ ul.sdt_menu li div.sdt_box a:hover{
 	position: relative;
 	display: inline-block;
 	padding: 4px 28px;
-	background: #212121;
+	background: #131313;
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
 	transition: transform 0.3s;
@@ -179,7 +179,7 @@ ul.sdt_menu li div.sdt_box a:hover{
 
 .csstransforms3d .cl-effect-2 a:hover span::before,
 .csstransforms3d .cl-effect-2 a:focus span::before {
-	background: #2a2d2d;
+	background: #1d1d1d;
 }
 
 .cl-effect-2 a small {
